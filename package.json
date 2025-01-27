@@ -52,7 +52,7 @@
     "@types/semver": "^7.5.8",
     "@typescript-eslint/eslint-plugin": "^8.21.0",
     "@typescript-eslint/parser": "^7.4.0",
-    "@vercel/ncc": "^0.38.1",
+    "@vercel/ncc": "^0.38.3",
     "ansi-styles": "6.2.1",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",
