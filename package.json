@@ -37,11 +37,11 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/cache": "^4.0.0",
+    "@actions/cache": "^4.0.1",
     "@actions/core": "^1.11.1",
     "@actions/github": "^5.1.1",
-    "@octokit/core": "^6.1.3",
-    "@octokit/plugin-retry": "^7.1.3",
+    "@octokit/core": "^6.1.4",
+    "@octokit/plugin-retry": "^7.1.4",
     "lodash.deburr": "^4.1.0",
     "semver": "^7.6.3"
   },
