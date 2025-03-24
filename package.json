@@ -65,7 +65,7 @@
     "prettier": "^3.5.3",
     "standard-version": "^9.3.1",
     "terminal-link": "^3.0.0",
-    "ts-jest": "^29.2.5",
+    "ts-jest": "^29.3.0",
     "typescript": "^5.7.3"
   }
 }
